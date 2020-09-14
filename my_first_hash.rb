@@ -1,9 +1,9 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   my_hash = {
-    "my_name" => "sean",
-    "my_height" => "9 feet 10 inches",
-    "my_weight" => "300 Kilograms",
+    "Max" => "bratcat",
+    "Mia" => "barkydog",
+    "Bella" => "cuddlydog",
   }
 end
 
@@ -36,10 +36,8 @@ def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
   shipping_manifest["muskets"] = 2
-
   # add 4 gun powder to the shipping_manifest hash below
   shipping_manifest["gun powder"] = 4
-
   # return the shipping_manifest hash below
   shipping_manifest
 
